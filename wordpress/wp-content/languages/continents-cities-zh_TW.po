@@ -1,0 +1,207 @@
+# Translation of Continents & Cities in Chinese (Taiwan)
+# This file is distributed under the same license as the Continents & Cities package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2012-07-12 08:29:44+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/1.0-alpha-1000\n"
+"Project-Id-Version: Continents & Cities\n"
+
+#: wp-admin/includes/continents-cities.php:294
+msgid "Taipei"
+msgstr "台北"
+
+#: wp-admin/includes/continents-cities.php:224
+msgid "Asia"
+msgstr "亞洲"
+
+#: wp-admin/includes/continents-cities.php:254
+msgid "Hong Kong"
+msgstr "香港"
+
+#: wp-admin/includes/continents-cities.php:301
+msgid "Tokyo"
+msgstr "東京"
+
+#: wp-admin/includes/continents-cities.php:324
+msgid "Australia"
+msgstr "澳洲"
+
+#: wp-admin/includes/continents-cities.php:343
+msgid "Sydney"
+msgstr "雪梨"
+
+#: wp-admin/includes/continents-cities.php:349
+msgid "GMT"
+msgstr "格林威治標準時間"
+
+#: wp-admin/includes/continents-cities.php:384
+msgid "Europe"
+msgstr "歐洲"
+
+#: wp-admin/includes/continents-cities.php:397
+msgid "Dublin"
+msgstr "都柏林"
+
+#: wp-admin/includes/continents-cities.php:390
+msgid "Berlin"
+msgstr "柏林"
+
+#: wp-admin/includes/continents-cities.php:414
+msgid "Moscow"
+msgstr "莫斯科"
+
+#: wp-admin/includes/continents-cities.php:416
+msgid "Paris"
+msgstr "巴黎"
+
+#: wp-admin/includes/continents-cities.php:420
+msgid "Rome"
+msgstr "羅馬"
+
+#: wp-admin/includes/continents-cities.php:453
+msgid "Pacific"
+msgstr "太平洋"
+
+#: wp-admin/includes/continents-cities.php:382
+msgid "UTC"
+msgstr "世界協調時（UTC）"
+
+#: wp-admin/includes/continents-cities.php:350
+msgid "GMT+0"
+msgstr "格林威治標準時間+0"
+
+#: wp-admin/includes/continents-cities.php:351
+msgid "GMT+1"
+msgstr "格林威治標準時間+1"
+
+#: wp-admin/includes/continents-cities.php:352
+msgid "GMT+10"
+msgstr "格林威治標準時間+10"
+
+#: wp-admin/includes/continents-cities.php:353
+msgid "GMT+11"
+msgstr "格林威治標準時間+11"
+
+#: wp-admin/includes/continents-cities.php:354
+msgid "GMT+12"
+msgstr "格林威治標準時間+12"
+
+#: wp-admin/includes/continents-cities.php:355
+msgid "GMT+2"
+msgstr "格林威治標準時間+2"
+
+#: wp-admin/includes/continents-cities.php:356
+msgid "GMT+3"
+msgstr "格林威治標準時間+3"
+
+#: wp-admin/includes/continents-cities.php:357
+msgid "GMT+4"
+msgstr "格林威治標準時間+4"
+
+#: wp-admin/includes/continents-cities.php:358
+msgid "GMT+5"
+msgstr "格林威治標準時間+5"
+
+#: wp-admin/includes/continents-cities.php:359
+msgid "GMT+6"
+msgstr "格林威治標準時間+6"
+
+#: wp-admin/includes/continents-cities.php:360
+msgid "GMT+7"
+msgstr "格林威治標準時間+7"
+
+#: wp-admin/includes/continents-cities.php:361
+msgid "GMT+8"
+msgstr "格林威治標準時間+8"
+
+#: wp-admin/includes/continents-cities.php:362
+msgid "GMT+9"
+msgstr "格林威治標準時間+9"
+
+#: wp-admin/includes/continents-cities.php:363
+msgid "GMT-0"
+msgstr "格林威治標準時間-0"
+
+#: wp-admin/includes/continents-cities.php:364
+msgid "GMT-1"
+msgstr "格林威治標準時間-1"
+
+#: wp-admin/includes/continents-cities.php:365
+msgid "GMT-10"
+msgstr "格林威治標準時間-10"
+
+#: wp-admin/includes/continents-cities.php:366
+msgid "GMT-11"
+msgstr "格林威治標準時間-11"
+
+#: wp-admin/includes/continents-cities.php:367
+msgid "GMT-12"
+msgstr "格林威治標準時間-12"
+
+#: wp-admin/includes/continents-cities.php:368
+msgid "GMT-13"
+msgstr "格林威治標準時間-13"
+
+#: wp-admin/includes/continents-cities.php:369
+msgid "GMT-14"
+msgstr "格林威治標準時間-14"
+
+#: wp-admin/includes/continents-cities.php:370
+msgid "GMT-2"
+msgstr "格林威治標準時間-2"
+
+#: wp-admin/includes/continents-cities.php:371
+msgid "GMT-3"
+msgstr "格林威治標準時間-3"
+
+#: wp-admin/includes/continents-cities.php:372
+msgid "GMT-4"
+msgstr "格林威治標準時間-4"
+
+#: wp-admin/includes/continents-cities.php:373
+msgid "GMT-5"
+msgstr "格林威治標準時間-5"
+
+#: wp-admin/includes/continents-cities.php:374
+msgid "GMT-6"
+msgstr "格林威治標準時間-6"
+
+#: wp-admin/includes/continents-cities.php:375
+msgid "GMT-7"
+msgstr "格林威治標準時間-7"
+
+#: wp-admin/includes/continents-cities.php:376
+msgid "GMT-8"
+msgstr "格林威治標準時間-8"
+
+#: wp-admin/includes/continents-cities.php:377
+msgid "GMT-9"
+msgstr "格林威治標準時間-9"
+
+#: wp-admin/includes/continents-cities.php:378
+msgid "GMT0"
+msgstr "格林威治標準時間0"
+
+#: wp-admin/includes/continents-cities.php:379
+msgid "Greenwich"
+msgstr "格林威治"
+
+#: wp-admin/includes/continents-cities.php:61
+msgid "America"
+msgstr "美洲"
+
+#: wp-admin/includes/continents-cities.php:98
+msgid "Chicago"
+msgstr "芝加哥"
+
+#: wp-admin/includes/continents-cities.php:108
+msgid "Detroit"
+msgstr "底特律"
+
+#: wp-admin/includes/continents-cities.php:107
+msgid "Denver"
+msgstr "丹佛"
