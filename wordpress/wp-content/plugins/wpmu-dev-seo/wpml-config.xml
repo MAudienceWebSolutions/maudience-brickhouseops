@@ -1,0 +1,37 @@
+<wpml-config>
+	<custom-fields>
+		<custom-field action="translate">_wds_title</custom-field>
+		<custom-field action="translate">_wds_keywords</custom-field>
+		<custom-field action="translate">_wds_metadesc</custom-field>
+		<custom-field action="copy">_wds_meta-robots-adv</custom-field>
+		<custom-field action="copy">_wds_meta-robots-nofollow</custom-field>
+		<custom-field action="copy">_wds_meta-robots-noindex</custom-field>
+		<custom-field action="copy">_wds_sitemap-priority</custom-field>
+		<custom-field action="ignore">_wds_redirect</custom-field>
+		<custom-field action="ignore">_wds_canonical</custom-field>
+	</custom-fields>
+	<admin-texts>
+		<key name="wds_onpage_options">
+			<key name="title-home" />
+			<key name="metadesc-home" />
+			<key name="title-post" />
+			<key name="metadesc-post" />
+			<key name="title-page" />
+			<key name="metadesc-page" />
+			<key name="title-attachment" />
+			<key name="metadesc-attachment" />
+			<key name="title-category" />
+			<key name="metadesc-category" />
+			<key name="title-post_tag" />
+			<key name="metadesc-post_tag" />
+			<key name="title-author" />
+			<key name="metadesc-author" />
+			<key name="title-date" />
+			<key name="metadesc-date" />
+			<key name="title-search" />
+			<key name="metadesc-search" />
+			<key name="title-404" />
+			<key name="metadesc-404" />
+		</key>
+	</admin-texts>
+</wpml-config>
