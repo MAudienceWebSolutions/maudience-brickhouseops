@@ -172,7 +172,7 @@ msgstr "Oppdaterer…"
 msgid "Updated!"
 msgstr "Oppdatert!"
 
-#: wp-includes/taxonomy.php:4173
+#: wp-includes/taxonomy.php:4169
 msgid "Could not split shared term."
 msgstr "Kunne ikke splitte delt term."
 
@@ -736,7 +736,7 @@ msgstr "(ikke noe navigasjonsmerke)"
 
 #. translators: %s: taxonomy label, %l: list of terms formatted as per
 #. $term_template
-#: wp-includes/taxonomy.php:4483
+#: wp-includes/taxonomy.php:4479
 msgid "%s: %l."
 msgstr "%s: %l."
 
@@ -4686,7 +4686,7 @@ msgstr "Ikke godkjent"
 msgid "Duplicate comment detected; it looks as though you&#8217;ve already said that!"
 msgstr "To like kommentarer. Det ser ut som om du allerede har sagt dette!"
 
-#: wp-includes/comment.php:2368
+#: wp-includes/comment.php:2375
 msgid "Could not update comment status"
 msgstr "Kunne ikke oppdatere kommentarstatus"
 
@@ -5915,7 +5915,7 @@ msgstr "Kunne ikke sette det som miniatyrbilde. Prøv et annet vedlegg."
 msgid "Saving Draft&#8230;"
 msgstr "Lagrer kladd&#8230;"
 
-#: wp-includes/taxonomy.php:4554
+#: wp-includes/taxonomy.php:4550
 msgid "Invalid object ID"
 msgstr "Ugyldig objekt-ID"
 
@@ -5947,7 +5947,7 @@ msgstr "Vennligst logg inn igjen."
 msgid "Sidebar %d"
 msgstr "Sidekolonne %d"
 
-#: wp-includes/wp-db.php:2949
+#: wp-includes/wp-db.php:2991
 msgid "<strong>ERROR</strong>: WordPress %1$s requires MySQL %2$s or higher"
 msgstr "<strong>FEIL</strong>: WordPress %1$s krever MySQL %2$s eller høyere"
 
@@ -6331,7 +6331,7 @@ msgid "Invalid Taxonomy"
 msgstr "Ugyldig taksonomi"
 
 #: wp-includes/taxonomy.php:1318 wp-includes/taxonomy.php:3382
-#: wp-includes/taxonomy.php:4351
+#: wp-includes/taxonomy.php:4347
 msgid "Empty Term"
 msgstr "Tom term"
 

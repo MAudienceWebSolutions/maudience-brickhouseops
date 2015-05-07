@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Network Admin package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-04-12 22:11:47+0000\n"
+"PO-Revision-Date: 2015-04-30 22:00:46+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -163,7 +163,7 @@ msgstr "Αυτή η διεύθυνση ηλεκτρονικού ταχυδρομ
 
 #: wp-admin/network/users.php:266
 msgid "Hover over any user on the list to make the edit links appear. The Edit link on the left will take you to their Edit User profile page; the Edit link on the right by any site name goes to an Edit Site screen for that site."
-msgstr "Περάστε τον κέρσορα πάνω από κάθε χρήστη στη λίστα για να εμφανιστούν οι σύνδεσμοι επεξεργασίας. Ο σύνδεσμός \"Επεξεργασία\" στα αριστερά θα σας μεταφέρει στη σελίδα Επεξεργασία Προφιλ Χρήστη. Ο σύνδεσμός \"Επεξεργασία\" στα δεξία από κάθε όνομα ιστοσελίδας θα σας μεταφέρει στη σελίδα \"Επεξεργασία Ιστοσελίδας\" της ιστοσελίδας που επιλέξατε."
+msgstr "Μεταφέρετε τον δείκτη του ποντικιού πάνω από κάθε χρήστη στη λίστα για να εμφανιστούν οι σύνδεσμοι επεξεργασίας. Ο σύνδεσμος \"Επεξεργασία\" στα αριστερά θα σας μεταφέρει στη σελίδα Επεξεργασία Προφίλ Χρήστη. Ο σύνδεσμος \"Επεξεργασία\" στα δεξιά από κάθε όνομα ιστότοπου θα σας μεταφέρει στη σελίδα \"Επεξεργασία ιστότοπου\" για το συγκεκριμένο που επιλέξατε."
 
 #: wp-admin/network/upgrade.php:115
 msgid "The database upgrade process may take a little while, so please be patient."
@@ -446,14 +446,18 @@ msgstr "Δεν έχετε επαρκή δικαιώματα για να διαχ
 msgid "Clicking on bold headings can re-sort this table."
 msgstr "Κλικάρωντας στις έντονες επικεφαλίδες επανα-ταξινομείτε τον πίνακα."
 
+#: wp-admin/network/sites.php:31
+msgid "Add New takes you to the Add New Site screen. You can search for a site by Name, ID number, or IP address. Screen Options allows you to choose how many sites to display on one page."
+msgstr "Πατώντας το Προσθήκη Νέου, μεταφέρεστε στην οθόνη δημιουργίας Νέου Ιστότοπου. Μπορείτε να ψάξετε για ιστότοπους που υπάρχουν στο Δίκτυο σας με βάσει το Όνομα, το ID ή την IP διεύθυνση. Από την καρτέλα Επιλογές προβολής μπορείτε να επιλέξετε το πλήθος των ιστότοπων που θα εμφανίζονται σε μία οθόνη."
+
+#: wp-admin/network/site-themes.php:178
+msgid "Network enabled themes are not shown on this screen."
+msgstr "Τα θέματα εμφάνισης που έχουν ενεργοποιηθεί για όλο το Δίκτυο δεν εμφανίζονται σε αυτή την οθόνη."
+
 #. translators: 1: dashboard url, 2: network admin edit url
 #: wp-admin/network/site-new.php:117
 msgid "Site added. <a href=\"%1$s\">Visit Dashboard</a> or <a href=\"%2$s\">Edit Site</a>"
 msgstr "Ο ιστότοπος προστέθηκε. <a href=\"%1$s\">Επισκεφτείτε τον Πίνακα Ελέγχου</a> η <a href=\"%2$s\">Επεξεργασία ιστότοπου</a>"
-
-#: wp-admin/network/site-themes.php:178
-msgid "Network enabled themes are not shown on this screen."
-msgstr "Τα ενεργοποιημένα θέματα του δικτύου εμφανίζονται στην οθόνη."
 
 #: wp-admin/network/user-new.php:23
 msgid "Add User will set up a new user account on the network and send that person an email with username and password."
@@ -501,10 +505,6 @@ msgstr "<strong>Users</strong> - Απεικονίζονται οι χρήστε�
 #: wp-admin/network/site-themes.php:23 wp-admin/network/site-users.php:26
 msgid "The menu is for editing information specific to individual sites, particularly if the admin area of a site is unavailable."
 msgstr "Το μενού είναι για την επεξεργασία πληροφοριών συγκεκριμένα σε μεμονωμένες ιστοσελίδες, ειδικά στην περίπτωση που η περιοχή διαχείρισης της ιστοσελίδας δεν είναι διαθέσιμη."
-
-#: wp-admin/network/sites.php:31
-msgid "Add New takes you to the Add New Site screen. You can search for a site by Name, ID number, or IP address. Screen Options allows you to choose how many sites to display on one page."
-msgstr "Η επιλογή Νέα Σελίδα σας μεταφέρει στη σελίδα δημιουργίας Νέας Σελίδας. Μπορείτε να αναζητήσετε μια σελίδα που έχετε δημιουργήσει με κρίτηρια το Όνομα, το ID ή την IP διεύθυνση. Η σελίδα Επιλογές σας επιτρέπει να επιλέξετε πόσες σελίδες από αυτές που έχετε δημιουργήσει θέλετε να εμφανίζονται σε κάθε σελίδα. "
 
 #: wp-admin/network/sites.php:37
 msgid "Delete which is a permanent action after the confirmation screens."
@@ -605,13 +605,21 @@ msgstr "Για να ασφαλίσετε καλύτερα την εγκατάσ�
 msgid "Once you complete these steps, your network is enabled and configured. You will have to log in again."
 msgstr "Μόλις ολοκληρώσετα τα βήματα αυτά, το δίκτυό σας θα είναι εγκατεστημένο και ενεργοποιημένο. Θα πρέπει να συνδεθείτε εκ νέου."
 
-#: wp-admin/network.php:379
-msgid "Enabling the Network"
-msgstr "Ενεργοποίήση του δικτύου"
-
 #: wp-admin/network.php:380
 msgid "Complete the following steps to enable the features for creating a network of sites."
 msgstr "Ολοκληρώστε τα ακόλουθα βήματα για να ενεργοποιήσετε τις δυνατότητες για την δημιουργία δικτύου ιστότοπων."
+
+#: wp-admin/network.php:379
+msgid "Enabling the Network"
+msgstr "Ενεργοποίηση του δικτύου"
+
+#: wp-admin/network.php:165
+msgid "Please <a href=\"%s\">deactivate your plugins</a> before enabling the Network feature."
+msgstr "Παρακαλώ <a href=\"%s\">απενεργοποιήστε τα πρόσθετα σας</a> πριν ενεργοποιήσετε την δυνατότητα Δικτύου."
+
+#: wp-admin/network.php:252
+msgid "We recommend you change your siteurl to <code>%1$s</code> before enabling the network feature. It will still be possible to visit your site using the <code>www</code> prefix with an address like <code>%2$s</code> but any links will not have the <code>www</code> prefix."
+msgstr "Σας προτείνουμε να αλλάξετε το url της ιστοσελίδας σας σε  <code>%1$s</code> πριν ενεργοποιήσετε το χαρακτηριστικό του δικτύου. Θα συνεχίσετε να μπορείτε να επισκέπτεστε τον ιστότοπο σας  χρησιμοποιώντας το πρόθεμα <code>www</code> με διεύθυνση της μορφής  <code>%2$s</code> αλλά οι σύνδεσμοι δε θα έχουν το πρόθεμα <code>www</code>."
 
 #: wp-admin/network.php:257 wp-admin/network.php:297
 msgid "The internet address of your network will be <code>%s</code>."
@@ -641,10 +649,6 @@ msgstr "Επίσης από το αρχείο <code>wp-config.php</code> λεί�
 msgid "Once the network is created, you may reactivate your plugins."
 msgstr "Όταν το δίκτυο δημιουργηθεί, μπορείτε να ξανα ενεργοποήσετε τα πρόσθετά σας."
 
-#: wp-admin/network.php:165
-msgid "Please <a href=\"%s\">deactivate your plugins</a> before enabling the Network feature."
-msgstr "Παρακαλώ <a href=\"%s\">απενεργοποιήστε τα πρόσθετα σας</a> πρίν ενεργοποιήσετε την δυνατότητα Δικτύου."
-
 #: wp-admin/network.php:219
 msgid "Addresses of Sites in your Network"
 msgstr "Οι διευθύνσεις των ιστότοπων του δικτύου σας"
@@ -670,10 +674,6 @@ msgstr "Επειδή η εγκατάσταση σας είναι μέσα σε �
 #: wp-admin/network.php:269
 msgid "Because you are using <code>localhost</code>, the sites in your WordPress network must use sub-directories. Consider using <code>localhost.localdomain</code> if you wish to use sub-domains."
 msgstr "Επειδή χρησιμοποιείτε <code>localhost</code>, οι ιστοσελίδες στο δίκτυου του WordPress σας πρέπει να χρησιμοποιούν υπο-καταλόγους. Σκεφτείτε να χρησιμοποιήσετε <code>localhost.localdomain</code> εάν επιθυμείτε τη χρήση των sub-domains."
-
-#: wp-admin/network.php:252
-msgid "We recommend you change your siteurl to <code>%1$s</code> before enabling the network feature. It will still be possible to visit your site using the <code>www</code> prefix with an address like <code>%2$s</code> but any links will not have the <code>www</code> prefix."
-msgstr "Σας προτείνουμε να αλλάξετε το url της ιστοσελίδας σας σε  <code>%1$s</code> πριν ενεργοποιησετε το χαρακτηριστικό του δικτύου. Είναι ακόμη δυνατό να επισκεφθείτε την ιστοσελίδα σα χρησιμοποιώντας το πρόθεμα <code>www</code> με διεύθυνση της μορφής  <code>%2$s</code> αλλά οι σύνδεσμοι δε θα έχουν το πρόθεμα <code>www</code>."
 
 #: wp-admin/network.php:220
 msgid "Please choose whether you would like sites in your WordPress network to use sub-domains or sub-directories. <strong>You cannot change this later.</strong>"
@@ -756,7 +756,7 @@ msgstr "Προσοχή! Αδύνατη η τροποποίηση μέλους. �
 
 #: wp-admin/network/sites.php:33
 msgid "Hovering over each site reveals seven options (three for the primary site):"
-msgstr "Αιωρώντας πάνω από κάθε ιστότοπο εμφανίζει επτά επιλογές (τρεςς από το πρωταρχικό ιστότοπο):"
+msgstr "Η μεταφορά του ποντικιού πάνω σε ένα ιστότοπο, εμφανίζει επτά επιλογές (τρεις για τον κεντρικό ιστότοπο):"
 
 #: wp-admin/network/site-new.php:24
 msgid "If the admin email for the new site does not exist in the database, a new user will also be created."
@@ -852,7 +852,11 @@ msgstr "Αδύνατη η δημιουργία κενού ιστοχώρου."
 
 #: wp-admin/network/settings.php:203
 msgid "If you want to limit site registrations to certain domains. One domain per line."
-msgstr "Αν θέλετε να περιορίσετε τις εγγραφές σε ιστοσελίδες του δικτύου για συγκεκριμένα domains θέστε ένα domain σε κάθε γραμμή."
+msgstr "Αν θέλετε να περιορίσετε τις εγγραφές μελών μόνο από συγκεκριμένα domains θέστε ένα domain σε κάθε γραμμή."
+
+#: wp-admin/network/upgrade.php:97
+msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
+msgstr "Aν το πρόγραμμα περιήγησης σας δεν ξεκινήσει να φορτώνει την επόμενη σελίδα αυτόματα, κάντε κλικ στον σύνδεσμο: "
 
 #: wp-admin/network/settings.php:214
 msgid "If you want to ban domains from site registrations. One domain per line."
@@ -861,10 +865,6 @@ msgstr "Αν θέλετε να απαγορέψετε τις εγγραφές σ
 #: wp-admin/network/settings.php:161
 msgid "If registration is disabled, please set <code>NOBLOGREDIRECT</code> in <code>wp-config.php</code> to a URL you will redirect visitors to if they visit a non-existent site."
 msgstr "Αν οι εγγραφές είναι απενεργοποιημένες, παρακαλούμε θέστε το <code>NOBLOGREDIRECT</code> στο αρχείο <code>wp-config.php</code> ώστε να έχει ως τιμή ένα URL στο οποία θα ανακατευθύνετε τους χρήστες όταν επισκέπτονται μια ιστοσελίδα που δεν υπάρχει."
-
-#: wp-admin/network/upgrade.php:97
-msgid "If your browser doesn&#8217;t start loading the next page automatically, click this link:"
-msgstr "Εαν το πρόγραμμα περιήγησης σας δεν ξεκινήσει να φορτώνει την επόμενη σελίδα αυτόματα, κάντε κλικ σε αυτό τον υπεσύνδεσμο: "
 
 #: wp-admin/network/sites.php:194
 msgid "Sites removed from spam."

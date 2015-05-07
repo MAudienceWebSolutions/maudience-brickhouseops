@@ -2,7 +2,7 @@
 # This file is distributed under the same license as the Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2015-04-23 15:23:09+0000\n"
+"PO-Revision-Date: 2015-05-06 07:49:08+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -11,83 +11,83 @@ msgstr ""
 "Project-Id-Version: Administration\n"
 
 #. translators: 1: Term splitting guide link
-#: wp-admin/about.php:123
+#: wp-admin/about.php:127
 msgid "Terms shared across multiple taxonomies will be split when one of them is updated. Find out more in the <a href=\"%1$s\">Plugin Developer Handbook</a>."
 msgstr "Termen die zijn gedeeld tussen meerder taxonomieën worden gesplitst zodra één van hen wordt bijgewerkt. Je kan hier meer over lezen in het <a href=\"%1$s\">Plugin-ontwikkelaar handboek</a>."
 
-#: wp-admin/about.php:60
+#: wp-admin/about.php:64
 msgid "Clip it, edit it, publish it. Get familiar with the new and improved Press This. From the <a href=\"%s\">Tools</a> menu, add Press This to your browser bookmark bar or your mobile device home screen. Once installed you can share your content with lightning speed. Sharing your favorite videos, images, and content has never been this fast or this easy."
 msgstr "Selecteren, bewerken en publiceren. Wordt bekend met de verbeterde 'Press this' optie. Via het <a href=\"%s\">Extra</a> menu kan je de 'Press this' toevoegen aan je bookmarks of koppelen op je home-scherm van je mobiel apparaat. Zodra dit is geïnstalleerd kan je nieuwe berichten delen met de snelheid van het licht. Het delen van favoriete video's, afbeeldingen en tekst is nog nooit zo eenvoudig geweest."
 
 #. translators: 1: WP_Query, 2: WP_Comment_Query, 3: WP_User_Query
-#: wp-admin/about.php:129
+#: wp-admin/about.php:133
 msgid "%1$s, %2$s, and %3$s now support complex ordering with named meta query clauses."
 msgstr "%1$s, %2$s, en %3$s ondersteunen nu complexe sortering met gelabelde meta query clausules."
 
 #. translators: 1: heart emoji, 2: frog face emoji, 3, monkey emoji, 4: pizza
 #. emoji, 5: Emoji Codex link
-#: wp-admin/about.php:82
+#: wp-admin/about.php:86
 msgid "Don&#8217;t use any of those characters? You can still have fun &mdash; emoji are now available in WordPress! Get creative and decorate your content with %1$s, %2$s, %3$s, %4$s, and all the many other <a href=\"%5$s\">emoji</a>."
 msgstr "Maak je geen gebruik van deze karakters? Je kan nog steeds je lol op &mdash; emoji's zijn nu beschikbaar in WordPress. Gebruik je creativiteit en verrijk je bericht met %1$s, %2$s, %3$s, %4$s en vele andere <a href=\"%5$s\">emoji's</a>."
 
 #. translators: %s wp.a11y.speak()
-#: wp-admin/about.php:116
+#: wp-admin/about.php:120
 msgid "You can now send audible notifications to screen readers in JavaScript with %s. Pass it a string, and an update will be sent to a dedicated ARIA live notifications area."
 msgstr "Het is nu mogelijk hoorbare meldingen naar schermlezers te sturen in JavaScript met %s. Geeft het door via een string en een update wordt verstuurd naar een dedicated ARIA live meldingengebied."
 
-#: wp-admin/about.php:79
+#: wp-admin/about.php:83
 msgid "Writing in WordPress, whatever your language, just got better. WordPress 4.2 supports a host of new characters out-of-the-box, including native Chinese, Japanese, and Korean characters, musical and mathematical symbols, and hieroglyphs."
 msgstr "Het schrijven in WordPress, onafhankelijke van je taal, is beter geworden. WordPress 4.2. biedt ondersteuning voor nieuwe karaktersets zoals Chinese, Japanse en Koreaanse karakters. Daarnaast ook muzikale, wiskundige symbolen en hiërogliefen."
 
-#: wp-admin/about.php:78
+#: wp-admin/about.php:82
 msgid "Extended character support"
 msgstr "Uitgebreide karakterset ondersteuning"
 
-#: wp-admin/about.php:91
+#: wp-admin/about.php:95
 msgid "Browse and preview your installed themes from the Customizer. Make sure the theme looks great with <em>your</em> content, before it debuts on your site. "
 msgstr "Door de geïnstalleerde thema's bladeren en previewen met de Thema Customizer. Zorg ervoor dat het thema er fantastisch uitziet met <em>jouw</em> content voordat deze wordt geactiveerd op de site."
 
-#: wp-admin/about.php:96
+#: wp-admin/about.php:100
 msgid "Paste links from Tumblr.com and Kickstarter and watch them magically appear right in the editor. With every release, your publishing and editing experience get closer together."
 msgstr "Links plakken vanuit Tumblr.com en Kickstarter en bekijk hoe de magie van de editor zijn werk doet. Met elke release zal het publiceren en bewerken steeds dichter bij elkaar komen."
 
-#: wp-admin/about.php:95
+#: wp-admin/about.php:99
 msgid "Even more embeds"
 msgstr "En nog meer embeds"
 
-#: wp-admin/about.php:101
+#: wp-admin/about.php:105
 msgid "Goodbye boring loading screen, hello smooth and simple plugin updates. Click <em>Update&nbsp;Now</em> and watch the magic happen."
 msgstr "Vaarwel met het saaie laadscherm, hallo strakke en eenvoudige plugin updates. Klik op <em>Nu&nbsp;bijwerken</em> en zie wat de magie zal doen."
 
-#: wp-admin/about.php:59
+#: wp-admin/about.php:63
 msgid "An easier way to share content"
 msgstr "Een eenvoudigere manier om inhoud te delen"
 
-#: wp-admin/about.php:90
+#: wp-admin/about.php:94
 msgid "Switch themes in the Customizer"
 msgstr "Thema's wisselen met de Thema Customizer"
 
-#: wp-admin/about.php:111
+#: wp-admin/about.php:115
 msgid "Database character encoding has changed from utf8 to utf8mb4, which adds support for a whole range of new 4-byte characters."
 msgstr "Database karakter encoding is aangepast van utf8 naar utf8mb4. Hierdoor is er ondersteuning voor de nieuwe 4-byte karakters."
 
-#: wp-admin/about.php:126
+#: wp-admin/about.php:130
 msgid "Complex query ordering"
 msgstr "Complexe query sortering"
 
-#: wp-admin/about.php:113
+#: wp-admin/about.php:117
 msgid "JavaScript accessibility"
 msgstr "JavaScript toegankelijkheid"
 
-#: wp-admin/about.php:110
+#: wp-admin/about.php:114
 msgid "utf8mb4 support"
 msgstr "utf8mb4 ondersteuning"
 
-#: wp-admin/about.php:100
+#: wp-admin/about.php:104
 msgid "Streamlined plugin updates"
 msgstr "Gestroomlijnde plugin updates"
 
-#: wp-admin/about.php:120
+#: wp-admin/about.php:124
 msgid "Shared term splitting"
 msgstr "Splitsen van gedeelde termen"
 
@@ -95,7 +95,7 @@ msgstr "Splitsen van gedeelde termen"
 msgid "Thank you for updating! WordPress %s helps you communicate and share, globally."
 msgstr "Bedankt voor het bijwerken! WordPress %s helpt jou wereldwijd te communiceren en te delen."
 
-#: wp-admin/about.php:82
+#: wp-admin/about.php:86
 msgid "https://codex.wordpress.org/Emoji"
 msgstr "https://codex.wordpress.org/Emoji"
 
@@ -571,6 +571,10 @@ msgstr "Berichtinstellingen verbergen"
 msgid "In the editing area the Tab key enters a tab character. To move below this area by pressing Tab, press the Esc key followed by the Tab key. In some cases the Esc key will need to be pressed twice before the Tab key will allow you to continue."
 msgstr "In het tekstbewerkingsgebied levert de Tab-toets ene tab karakter op. Om voorbij het bewerkingsgebied te komen klik je op Esc gevolgd door de Tab-toets. In sommige gevallen moet de Esc toets tweemaal geklikt worden voordat er verder gegaan kan worden."
 
+#: wp-admin/tools.php:67
+msgid "Direct link (best for mobile)"
+msgstr "Directe link (beste voor mobiel)"
+
 #: wp-admin/tools.php:54
 msgid "Copy &#8220;Press This&#8221; bookmarklet code"
 msgstr "De &#8220;Press this&#8221; bookmarklet code kopiëren"
@@ -645,13 +649,9 @@ msgstr "Het is mogelijk om uit te loggen bij andere apparaten, zoals je telefoon
 msgid "If you can&#8217;t drag the bookmarklet to your bookmarks, copy the following code and create a new bookmark. Paste the code into the new bookmark&#8217;s URL field."
 msgstr "Wanneer het niet mogelijk is om de bookmarklet te slepen naar de bookmarks kopieer de volgende code en voeg een nieuwe bookmark toe. Plak de code in het URL-veld van de nieuwe bookmark."
 
-#: wp-admin/about.php:61 wp-admin/tools.php:48
+#: wp-admin/about.php:65 wp-admin/tools.php:48
 msgid "Drag the bookmarklet below to your bookmarks bar. Then, when you&#8217;re on a page you want to share, simply &#8220;press&#8221; it."
 msgstr "De onderstaande bookmarklet naar je bookmark balk slepen. Vervolgens kan je, als je op een pagina bent die je wilt delen, eenvoudig op 'Dit publiceren' klikken."
-
-#: wp-admin/tools.php:67
-msgid "Direct link (best for mobile)"
-msgstr "Directe linke (beste voor mobiel)"
 
 #: wp-admin/includes/theme.php:524
 msgid "Close details dialog"
@@ -692,10 +692,6 @@ msgstr "Dit thema is nog niet beoordeeld."
 msgid "New translations are available."
 msgstr "Er zijn nieuwe vertalingen beschikbaar."
 
-#: wp-admin/includes/class-wp-press-this.php:1206
-msgid "Press This!"
-msgstr "Press this!"
-
 #: wp-admin/includes/ms.php:256
 msgid ""
 "Howdy ###USERNAME###,\n"
@@ -719,7 +715,7 @@ msgstr ""
 "\n"
 "Je hebt recentelijk verzocht om het e-mailadres van de beheerder voor de site te wijzigen.\n"
 "\n"
-"Wanneer dit correct is kan je de volgende linke volgen om het definitief te maken:\n"
+"Wanneer dit correct is kan je de volgende link volgen om het definitief te maken:\n"
 "###ADMIN_URL###\n"
 "\n"
 "Je kan dit bericht eenvoudig negeren als je geen actie wil ondernemen.\n"
@@ -729,6 +725,10 @@ msgstr ""
 "Met vriendelijke groet,\n"
 "Iedereen bij ###SITENAME###\n"
 "###SITEURL###"
+
+#: wp-admin/includes/class-wp-press-this.php:1206
+msgid "Press This!"
+msgstr "Press this!"
 
 #: wp-admin/includes/ms.php:337
 msgid ""
@@ -3030,7 +3030,7 @@ msgstr "Onderstaand moet je de database verbindingsgegevens invullen. Als je nie
 msgid "Settings saved and theme activated. <a href=\"%s\">Visit site</a>"
 msgstr "Instellingen opgeslagen en thema geactiveerd. <a href=\"%s\">Bezoek site</a>"
 
-#: wp-admin/includes/update-core.php:1177 wp-admin/update-core.php:433
+#: wp-admin/includes/update-core.php:1180 wp-admin/update-core.php:433
 msgid "Welcome to WordPress %1$s. You will be redirected to the About WordPress screen. If not, click <a href=\"%2$s\">here</a>."
 msgstr "Welkom bij WordPress %1$s. Je wordt doorverwezen naar het &#39;Over&#39; WordPress scherm. Zo niet, klik <a href=\"%2$s\">hier</a>."
 
@@ -4144,26 +4144,26 @@ msgstr "Toon toolbar tijdens bekijken van de site"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:167
+#: wp-admin/about.php:171
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>Versie %1$s</strong> was gericht op een beveiligingsprobleem en een bepaalde %2$s bug."
 msgstr[1] "<strong>Versie %1$s</strong> was gericht op een beveiligingsprobleem en bepaalde %2$s bugs."
 
-#: wp-admin/about.php:47 wp-admin/about.php:174
+#: wp-admin/about.php:47 wp-admin/about.php:51 wp-admin/about.php:178
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "Voor meer informatie, bezoek de  <a href=\"%s\">versie opmerkingen</a>."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:171
+#: wp-admin/about.php:45 wp-admin/about.php:175
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>Versie%1$s</strong> was gericht op enkele beveiligingsproblemen en herstelde %2$s bug."
 msgstr[1] "<strong>Versie %1$s</strong> was gericht op enkele beveiligingsproblemen en herstelde %2$s bugs."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:163
+#: wp-admin/about.php:167
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>Versie %1$s</strong> bevat %2$s bugfix."
@@ -4173,7 +4173,7 @@ msgstr[1] "<strong>Versie %1$s</strong> bevat %2$s bugfixes."
 msgid "Welcome to your WordPress Dashboard! This is the screen you will see when you log in to your site, and gives you access to all the site management features of WordPress. You can get help for any screen by clicking the Help tab in the upper corner."
 msgstr "Welkom bij het WordPress Dashboard! Dit is het scherm dat wordt getoond zodra een gebruiker inlogt op de website. Dit geeft je toegang tot alle beheerfuncties van WordPress. Bij elk scherm zijn helpschermen beschikbaar door te klikken op de Helptab in de rechterbovenhoek."
 
-#: wp-admin/about.php:156
+#: wp-admin/about.php:44 wp-admin/about.php:160
 msgid "Maintenance and Security Release"
 msgid_plural "Maintenance and Security Releases"
 msgstr[0] "Onderhouds- en veiligheidsversie"
@@ -4183,20 +4183,20 @@ msgstr[1] "Onderhouds- en veiligheidsversies"
 msgid "What&#8217;s New"
 msgstr "Wat is nieuw"
 
-#: wp-admin/about.php:44 wp-admin/about.php:155
+#: wp-admin/about.php:159
 msgid "Security Release"
 msgid_plural "Security Releases"
 msgstr[0] "Beveiligingsversie"
 msgstr[1] "Beveiligingsversies"
 
-#: wp-admin/about.php:154
+#: wp-admin/about.php:158
 msgid "Maintenance Release"
 msgid_plural "Maintenance Releases"
 msgstr[0] "Onderhoudsversie"
 msgstr[1] "Onderhoudsversies"
 
 #. translators: 1: WordPress version number.
-#: wp-admin/about.php:45 wp-admin/about.php:159
+#: wp-admin/about.php:49 wp-admin/about.php:163
 msgid "<strong>Version %1$s</strong> addressed a security issue."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues."
 msgstr[0] "<strong>Versie %1$s</strong> lost een beveiligingsprobleem op."
@@ -4206,11 +4206,11 @@ msgstr[1] "<strong>Versie %1$s</strong> lost enkele beveilingsproblemen op."
 msgid "This screen allows you to choose your default permalink structure. You can choose from common settings or create custom URL structures."
 msgstr "Dit scherm stelt je in staat om de standaard permalinkstructuur te wijzigen. Je kan uit de diverse mogelijkheden kiezen of een eigen structuur gebruiken."
 
-#: wp-admin/includes/update-core.php:1178 wp-admin/update-core.php:434
+#: wp-admin/includes/update-core.php:1181 wp-admin/update-core.php:434
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "Welkom bij WordPress %1$s. <a href=\"%2$s\">Meer leren</a>."
 
-#: wp-admin/about.php:138
+#: wp-admin/about.php:142
 msgid "Return to Updates"
 msgstr "Terug naar updates"
 
@@ -4506,11 +4506,11 @@ msgstr "Het direct insluiten van de wp-admin/includes/template.php voor het gebr
 msgid "Welcome to WordPress %s"
 msgstr "Welkom bij WordPress %s"
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:146
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Ga naar Dashboard &rarr; Home"
 
-#: wp-admin/about.php:138
+#: wp-admin/about.php:142
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "Terugkeren naar het Dashboard &rarr; Updates"
 
@@ -4522,7 +4522,7 @@ msgstr "WordPress is gemaakt door een wereldwijd team van enthousiaste en gepass
 msgid "Core Developers"
 msgstr "Hoofdontwikkelaars"
 
-#: wp-admin/about.php:106
+#: wp-admin/about.php:110
 msgid "Under the Hood"
 msgstr "Andere verbeteringen:"
 
@@ -4915,7 +4915,7 @@ msgstr "Dit scherm aanpassen"
 
 #: wp-admin/options-reading.php:149
 msgid "Note: Neither of these options blocks access to your site &mdash; it is up to search engines to honor your request."
-msgstr "Opmerking: geen van deze opties blokkeren de toegang tot je site &mdash; het is aan de zoekmachines om je verzoek te honoreren."
+msgstr "Opmerking: geen van deze opties blokkeren de toegang tot je site &mdash; het is aan de zoekmachines om gehoor te geven aan dit verzoek."
 
 #: wp-admin/options-permalink.php:219
 msgid "Post name"
@@ -5476,7 +5476,7 @@ msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
 
 #: wp-admin/themes.php:112
 msgid "Search Installed Themes"
-msgstr "Ge\"nstalleerde thema's zoeken"
+msgstr "Geïnstalleerde thema's zoeken"
 
 #: wp-admin/includes/class-wp-upgrader-skins.php:539
 msgid "Enable this theme for all sites in this network"
@@ -6781,7 +6781,7 @@ msgid "The password you chose during the install."
 msgstr "Het wachtwoord wat je gekozen hebt tijdens de installatie."
 
 #: wp-admin/includes/class-wp-upgrader.php:2672
-#: wp-admin/includes/update-core.php:1174 wp-admin/update-core.php:432
+#: wp-admin/includes/update-core.php:1177 wp-admin/update-core.php:432
 msgid "WordPress updated successfully"
 msgstr "WordPress succesvol bijgewerkt"
 
@@ -6815,7 +6815,7 @@ msgstr "Ja, verwijder deze bestanden en data"
 msgid "Menu Item"
 msgstr "Menu item"
 
-#: wp-admin/about.php:142
+#: wp-admin/about.php:146
 msgid "Go to Dashboard"
 msgstr "Naar het dashboard"
 
@@ -6877,7 +6877,7 @@ msgstr "<strong>%1$s</strong> door <em>%2$s</em> (zal ook <strong>al zijn gegeve
 
 #: wp-admin/options-general.php:159
 msgid "This address is used for admin purposes. If you change this we will send you an e-mail at your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
-msgstr "Dit adres wordt gebruikt voor admin doeleinden  Als je deze wijzigt verzenden wij een e-mail naar je nieuwe adres om het te bevestigen. <strong>Het nieuwe adres zal niet actief worden voordat deze is bevestigd</strong>"
+msgstr "Dit adres wordt gebruikt voor administratieve doeleinden. Als je deze wijzigt verzenden wij een e-mail naar je nieuwe adres om het te bevestigen. <strong>Het nieuwe adres zal niet actief worden voordat deze is bevestigd.</strong>"
 
 #: wp-admin/includes/class-wp-plugins-list-table.php:289
 msgid "Must-Use <span class=\"count\">(%s)</span>"
@@ -8016,7 +8016,7 @@ msgstr "Volledig verwijderen van thema %s niet mogelijk."
 msgid "Verifying the unpacked files&#8230;"
 msgstr "Uitgepakte bestanden verifi&#235;ren&#8230;"
 
-#: wp-admin/includes/update-core.php:1055
+#: wp-admin/includes/update-core.php:1058
 msgid "Upgrading database&#8230;"
 msgstr "Database bijwerken&#8230;"
 
@@ -8875,7 +8875,7 @@ msgstr "Doelmap bestaat al."
 
 #: wp-admin/includes/class-wp-upgrader.php:133 wp-admin/includes/file.php:644
 #: wp-admin/includes/file.php:748 wp-admin/includes/file.php:799
-#: wp-admin/includes/update-core.php:1128
+#: wp-admin/includes/update-core.php:1131
 msgid "Could not create directory."
 msgstr "Map kan niet aangemaakt worden."
 
@@ -10231,7 +10231,7 @@ msgstr "Je hebt onvoldoende rechten om headers te aan te passen."
 
 #: wp-admin/includes/file.php:664 wp-admin/includes/file.php:761
 #: wp-admin/includes/file.php:794 wp-admin/includes/update-core.php:1020
-#: wp-admin/includes/update-core.php:1123
+#: wp-admin/includes/update-core.php:1126
 msgid "Could not copy file."
 msgstr "Kan bestand niet kopi&#235;ren"
 
@@ -10483,7 +10483,7 @@ msgstr "Kan bestand niet ophalen uit het archief."
 msgid "Could not extract file from archive."
 msgstr "Kan bestand niet terughalen uit het archief."
 
-#: wp-admin/about.php:64 wp-admin/tools.php:16 wp-admin/tools.php:40
+#: wp-admin/about.php:68 wp-admin/tools.php:16 wp-admin/tools.php:40
 #: wp-admin/tools.php:51
 msgid "Press This"
 msgstr "Press this"
